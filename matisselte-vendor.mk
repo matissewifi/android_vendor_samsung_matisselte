@@ -26,7 +26,6 @@ vendor/samsung/matisselte/proprietary/lib/libreference-ril.so:system/lib/librefe
 vendor/samsung/matisselte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
 vendor/samsung/matisselte/proprietary/lib/hw/vibrator.default.so:lib/hw/vibrator.default.so \
 vendor/samsung/matisselte/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
-vendor/samsung/matisselte/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
 vendor/samsung/matisselte/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
 vendor/samsung/matisselte/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
 vendor/samsung/matisselte/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so
